@@ -4,3 +4,4 @@ https://assetstore.unity.com/packages/3d/environments/fantasy/translucent-crysta
 https://assetstore.unity.com/packages/3d/environments/dungeons/demo-low-poly-mines-327689
 https://assetstore.unity.com/packages/3d/props/gems-and-crystals-free-321105
 https://assetstore.unity.com/packages/3d/props/free-mining-pack-low-poly-ores-gems-tools-props-189962
+https://assetstore.unity.com/packages/3d/environments/mines-and-cave-set-305701
